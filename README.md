@@ -18,4 +18,4 @@ This portfolio website showcases my skills, projects, and achievements in the fi
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/portfolio.git
+   https://github.com/Sumandey7689/portfolio.git
