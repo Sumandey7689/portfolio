@@ -201,7 +201,7 @@ export const portfolioData: PortfolioData = {
     },
     {
       category: 'Frontend & Web',
-      skills: ['React', 'Responsive Design', 'Bootstrap', 'jQuery', 'AJAX', 'UX Principles'],
+      skills: ['Responsive Design', 'Bootstrap', 'jQuery', 'AJAX', 'UX Principles'],
     },
     {
       category: 'Databases & Caching',
